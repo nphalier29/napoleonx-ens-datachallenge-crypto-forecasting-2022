@@ -209,4 +209,5 @@ __marimo__/
 # files
 .DS_Store
 input/
+output/
 img/
