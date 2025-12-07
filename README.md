@@ -6,7 +6,7 @@ Ce projet a été réalisé dans le cadre du **Challenge Data ENS**, proposé pa
 
 ## Objectif 
 
-L’objectif est de **prédire le rendement relatif au Bitcoin de clusters de cryptomonnaies**, à partir de données historiques de rendements horaires et d’informations sur la structure des clusters.
+L’objectif est de **prédire le rendement (relatif au Bitcoin) de clusters de cryptomonnaies** pour la dernière heure de la journée, à partir de données historiques de rendements horaires des 23 premières heures et d’informations sur la structure des clusters.
 
 ## Datasets
 
